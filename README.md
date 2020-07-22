@@ -1,5 +1,5 @@
 # Covid-19
-Team Members
+Team Members: Kamlesh Singh, Mrunmayee Kulkarni, Paul Atkins, Andrew Lee, and Pranjal Pranjal
 
 Project Introduction
 
