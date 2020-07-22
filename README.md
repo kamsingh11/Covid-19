@@ -15,9 +15,9 @@ Approach (how you plan to address the research question):
 
      Date Preparation
 
-      Machine Learning (if applicable - supervised, unsupervised)
+     Machine Learning (if applicable - supervised, unsupervised)
 
-      Evaluation
+     Evaluation
 
 Known Issues (problems with predictors, reporting, bias, etc.) - this will develop over time
 
