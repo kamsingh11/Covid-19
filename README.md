@@ -17,6 +17,12 @@ This link is an interesting article breaking down data to explain how COVID has 
 https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
 This article does an excellent job breaking down labs, hospitalizations, mortality, ethnicity and age. This article is also great because they do age adjustments on their data.
 
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19
+This is not an article but a link to IMF's policy response tracker for Covid 19. It is very useful in understanding our research question as it lays down each country's history with this pandemic as well as their previous and current response and the way they are or have planned to reopen their economy.
+
+https://fas.org/sgp/crs/row/R46270.pdf
+This is a detailed report by Congressional Research Service gives a detailed insight about the economic effects of Covid 19 globally.With monthly economic developments laid out from March '20 to July '20.
+
 ## Data Sources (this may be fluid):
 The original link for dataset: https://ourworldindata.org/coronavirus/country/united-states?country=~USA
 
