@@ -10,7 +10,7 @@ COVID-19 has been affecting every region of this world and this pandemic has tak
 We seek to understand how COVID-19 is affecting people of various ages, to predict the number of deaths and to determine the effect of GDP on pandemic response and vice versa.
 
 ## Relevant Domain Information
-# (links to three or more articles that relate to your research question)
+### (links to three or more articles that relate to your research question)
 https://www.mercatus.org/publications/covid-19-policy-brief-series/cost-covid-19-rough-estimate-2020-us-gdp-impact
 This link is an interesting article breaking down data to explain how COVID has affected the GDP of the US. This article goes much further into the economic impact of COVID and does a great job of even breaking down industries. Our data breakdown will be much more broad with a global scope.
 
