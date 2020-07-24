@@ -1,6 +1,6 @@
 # COVID-19
 ## Team Members:
-Kamlesh Singh, Mrunmayee Kulkarni, Paul Atkins, Andrew Lee, and Pranjal Pranjal
+### Kamlesh Singh, Mrunmayee Kulkarni, Paul Atkins, Andrew Lee, and Pranjal Pranjal
 
 ## Project Introduction:
 
@@ -18,7 +18,7 @@ https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html
 This article does an excellent job breaking down labs, hospitalizations, mortality, ethnicity and age. This article is also great because they do age adjustments on their data.
 
 ## Data Sources (this may be fluid):
-The original link for dataset: https://ourworldindata.org/coronavirus/country/new-zealand?country=~NZL
+The original link for dataset: https://ourworldindata.org/coronavirus/country/united-states?country=~USA
 
 Approach (how you plan to address the research question):
 
