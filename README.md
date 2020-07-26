@@ -53,7 +53,7 @@ Approach (how you plan to address the research question):
 	* Dealing with pre-processing feature engineering: encoding, handling numerical and date variables
 	* Feature selection: removing the redundancy, checking correlation via a matrix and plot to understand which variables to select, if necessary dimension reduction by PCA 
 
-     Machine Learning (if applicable - supervised, unsupervised)
+     Machine Learning (Supervised)
 	We will be approaching this project with supervised learning models to understand the effect of GDP and predict deaths
 
      Evaluation
