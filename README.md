@@ -42,7 +42,7 @@ Approach (how you plan to address the research question):
 	* Data type, data range constraints 
 	* Looking for missing data
 	* Looking for inconsistencies in data
-	* Visualizing the above to get a beteer insight in the uniformity or the inconsistencies
+	* Visualizing the above to get a better insight in the uniformity or the inconsistencies
 	* Understanding and comapring distribution through histograms, CDF, PMF and KDE plots
 	* Visualizing relationshsips between the variables
 	
