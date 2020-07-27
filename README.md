@@ -38,32 +38,36 @@ The dataset used for our project can be found [here](https://ourworldindata.org/
 
 Approach (how you plan to address the research question):
 
-     Data understanding and EDA
+    * Data understanding and EDA
 	* Data type, data range constraints 
 	* Looking for missing data
 	* Looking for inconsistencies in data
-	* Visualizing the above to get a better insight in the uniformity or the inconsistencies
+	* Visualizing the above to get a beteer insight in the uniformity or the inconsistencies
 	* Understanding and comapring distribution through histograms, CDF, PMF and KDE plots
 	* Visualizing relationshsips between the variables
 	
-     Data Preparation
+    * Data Preparation
 	* Handling missing data with imputation or deletion (preferably imputation)
 	* Handling data types by converting some if needed
 	* Handling the scaling and normalizing of the data
 	* Dealing with pre-processing feature engineering: encoding, handling numerical and date variables
-	* Feature selection: removing the redundancy, checking correlation via a matrix and plot to understand which variables to select, if necessary dimension reduction by PCA 
+	* Feature selection: 
+		* removing the redundancy, 
+		* checking correlation via a matrix and plot to understand which variables to select, 
+		* if necessary dimension reduction by PCA 
 
-     Machine Learning (Supervised)
-	We will be approaching this project with supervised learning models to understand the effect of GDP and predict deaths
+    * Machine Learning (if applicable - supervised, unsupervised)
+	* We will be approaching this project with supervised learning models to understand the effect of GDP and predict deaths
 
-     Evaluation
+    * Evaluation
 	* Splitting the data into train and test set
 	* Scores, classification reports, confusion matrix to understand the accuracy of classification predictions
         * Exploring this with cross validation as well
 	* Tuning the hyperparameter and also planning to apply grid search for such hyper parameter tuning
 
 ## Known Issues (problems with predictors, reporting, bias, etc.)
-Upon initial evaluation of the data, there are several countries that do not report on all of the data attributes. This will require us to either fill large portions of missing data or omit large sections of the dataset. 
+Upon initial evaluation of the data, there are several countries that do not report on all of the data attributes. 
+This will require us to either fill large portions of missing data or omit large sections of the dataset. 
 
 ## Conclusion
 
