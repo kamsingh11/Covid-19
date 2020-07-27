@@ -38,7 +38,7 @@ The dataset used for our project can be found [here](https://ourworldindata.org/
 
 Approach (how you plan to address the research question):
 
-    * Data understanding and EDA
+   * Data understanding and EDA
 	* Data type, data range constraints 
 	* Looking for missing data
 	* Looking for inconsistencies in data
@@ -46,7 +46,7 @@ Approach (how you plan to address the research question):
 	* Understanding and comapring distribution through histograms, CDF, PMF and KDE plots
 	* Visualizing relationshsips between the variables
 	
-    * Data Preparation
+   * Data Preparation
 	* Handling missing data with imputation or deletion (preferably imputation)
 	* Handling data types by converting some if needed
 	* Handling the scaling and normalizing of the data
@@ -56,10 +56,10 @@ Approach (how you plan to address the research question):
 		* checking correlation via a matrix and plot to understand which variables to select, 
 		* if necessary dimension reduction by PCA 
 
-    * Machine Learning (if applicable - supervised, unsupervised)
+   * Machine Learning (if applicable - supervised, unsupervised)
 	* We will be approaching this project with supervised learning models to understand the effect of GDP and predict deaths
 
-    * Evaluation
+   * Evaluation
 	* Splitting the data into train and test set
 	* Scores, classification reports, confusion matrix to understand the accuracy of classification predictions
         * Exploring this with cross validation as well
