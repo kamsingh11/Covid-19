@@ -1,4 +1,4 @@
-## Approach
+Below is the Approcah we took for this project:
 
    * Data understanding and EDA
 	 * Data type, data range constraints 
@@ -26,9 +26,3 @@
 	 * Scores, classification reports, confusion matrix to understand the accuracy of classification predictions
          * Exploring this with cross validation as well
 	 * Tuning the hyperparameter and also planning to apply grid search for such hyper parameter tuning
-
-## Known Issues (problems with predictors, reporting, bias, etc.)
-Upon initial evaluation of the data, there are several countries that do not report on all of the data attributes. 
-This will require us to either fill large portions of missing data or omit large sections of the dataset. 
-
-## Conclusion

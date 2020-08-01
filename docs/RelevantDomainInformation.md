@@ -1,5 +1,4 @@
-## Relevant Domain Information
-### Below are some links to more articles that relate to our research question:
+Below are some links to more articles that relate to our research question:
 
  1. [The Cost of COVID-19: A Rough Estimate of the 2020 US GDP Impact](https://www.mercatus.org/publications/covid-19-policy-brief-series/cost-covid-19-rough-estimate-2020-us-gdp-impact)
  
