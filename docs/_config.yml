@@ -1,3 +1,5 @@
+theme: minima
+
 plugins:
   - jekyll-relative-links
  
@@ -7,3 +9,10 @@ relative_links:
 
 include:
   - README.md
+  - Approach.md
+  - RelevantDomainInformation.md
+
+header_pages:
+  - README.md
+  - Approach.md
+  - RelevantDomainInformation.md
