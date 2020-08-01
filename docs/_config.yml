@@ -11,8 +11,14 @@ include:
   - README.md
   - Approach.md
   - RelevantDomainInformation.md
+  - KnownIssues.md
+  - Conclusion.md
+  - AboutUs.md
 
 header_pages:
   - README.md
   - Approach.md
   - RelevantDomainInformation.md
+  - KnownIssues.md
+  - Conclusion.md
+  - AboutUs.md
