@@ -1,3 +1,3 @@
-##
+### Conclusion
 
-TBD
+We tried a regresion model based on location details to predict total deaths and got an accurancy of 75%. This is very helpful to take proactive measures at locations which might be prone to be hotspots based on prior trends that we have captured for the same. Apart from the current data points, in order to maintain the model and improve its accuracy on an ongoing basis, a current stream of daily COVID metrics as input to the model will help us improve its accuracy as we are in very dynamic times and replying on the latest and most accurate metrics using the data science tools and strategies that are at our disposal.
