@@ -5,14 +5,14 @@ layout: default
 
 include:
   - README.md
-  - Approach.md
+  - Dataset.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
   - AboutUs.md
 
 header_pages:
-  - Approach.md
+  - Dataset.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
