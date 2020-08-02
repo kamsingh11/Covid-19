@@ -2,13 +2,6 @@ title: Covid-19 Data Analysis
 
 theme: minima
 
-plugins:
-  - jekyll-relative-links
- 
-relative_links:
-  enabled: true
-  collections: true
-
 include:
   - README.md
   - Approach.md
