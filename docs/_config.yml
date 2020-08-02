@@ -1,6 +1,7 @@
 title: Covid-19 Data Analysis
 
 theme: minima
+layout: default
 
 include:
   - README.md

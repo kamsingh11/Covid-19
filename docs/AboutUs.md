@@ -1,7 +1,4 @@
----
-title: About Us
-layout: default
----
+### About Us
 
 Below are team members who worked on this project:
 
