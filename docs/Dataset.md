@@ -47,6 +47,8 @@ There are 33417 observations and 34 columns where 5 variables are of categorical
     memory usage: 8.7+ MB
 <br/>
 
+
+
 **Describing and Summarizing numerical or continuous variables**
 <table border="1" class="dataframe">
   <thead>
@@ -342,5 +344,3 @@ There are 33417 observations and 34 columns where 5 variables are of categorical
     </tr>
   </tbody>
 </table>
-</div>
-</div>
