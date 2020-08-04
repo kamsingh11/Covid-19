@@ -1,18 +1,22 @@
-title: Covid-19 Data Analysis
+title: COVID-19-Death Analysis
 
 theme: minima
 layout: default
 
 include:
   - README.md
+  - ProjectDetails.md
   - Dataset.md
+  - Approach.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
   - AboutUs.md
 
 header_pages:
+  - ProjectDetails.md
   - Dataset.md
+  - Approach.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
