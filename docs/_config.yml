@@ -7,6 +7,7 @@ include:
   - README.md
   - ProjectDetails.md
   - Dataset.md
+  - Approach.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
@@ -15,6 +16,7 @@ include:
 header_pages:
   - ProjectDetails.md
   - Dataset.md
+  - Approach.md
   - DomainInfo.md
   - KnownIssues.md
   - Conclusion.md
