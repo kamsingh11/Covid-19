@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-COVID-19 has been affecting every region of this world and this pandemic has taken the world by storm. This project focuses on the effects of pandemic based on age, region, GDP and such. The dataset obtained for this project is called  "the complete Our World in Data COVID-19 dataset" which is a collection of the COVID-19 data maintained by "[Our World In Data](https://ourworldindata.org/coronavirus)". This dataset is updated on a daily basis and includes variables such as confirmed cases, deaths, and testing, along with other potential variables.
+COVID-19 has been affecting every region of this world and this pandemic has taken the world by storm. This project focuses on the effects of pandemic based on age, region, GDP and such. The dataset obtained for this project is called `Our World in Data COVID-19 dataset` which is a collection of the COVID-19 data maintained by "[Our World In Data](https://ourworldindata.org/coronavirus)". This dataset is updated on a daily basis and includes variables such as confirmed cases, deaths, and testing, along with other potential variables.
 
 ## Research Question
 
