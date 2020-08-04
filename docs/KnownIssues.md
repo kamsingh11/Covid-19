@@ -1,8 +1,7 @@
 ### Known Issues
 ##### (problems with predictors, reporting, bias, etc.)
 
-* Missing Values Count:
-<br/>
+Missing Values Count:
 
     iso_code                              64
     continent                            276
@@ -41,6 +40,7 @@
     dtype: int64
 
 * There are a total number of 33417 observations and the following variables have more than 60% of data as missing values
+
 `new_tests, total_tests, total_tests_per_thousand, new_tests_per_thousand, new_tests_smoothed, new_tests_smoothed_per_thousand, tests_units`
 
 * The variable `handwashing_facilities` has 19653 close to 60% of data as missing values.
@@ -48,6 +48,7 @@
 * The variable `extreme_poverty` is also having 40% of its values as missing values. However, we will try to consider this variable as it has less than 50% of its missing values.
 
 * The below mentioned variables should also be removed as these are conversions per million. We would prefer to use per million numbers in general compared to just numbers, however, there are more missing values in variables using per million as conversions. Therefore, we stick to the original variables.
+
 `total_cases_per_million, new_cases_per_million, total_deaths_per_million, and new_deaths_per_million`
 
 * Total cases should include new cases and total deaths should include new deaths, Therefore, we can remove `new_cases` and `new_deaths` from our data to avoid redundancy.
