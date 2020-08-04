@@ -5,19 +5,19 @@ layout: default
 
 include:
   - README.md
-  - ProjectDetails.md
-  - Dataset.md
-  - Approach.md
-  - DomainInfo.md
-  - KnownIssues.md
+  - ProjectTeam.md
+  - DataSource.md
+  - DomainKnowledge.md
+  - DataUnderstanding.md
+  - Approach.md  
+  - DataPreparation.md
   - Conclusion.md
-  - AboutUs.md
 
 header_pages:
-  - ProjectDetails.md
-  - Dataset.md
+  - ProjectTeam.md
+  - DataSource.md
+  - DomainKnowledge.md
+  - DataUnderstanding.md
   - Approach.md
-  - DomainInfo.md
-  - KnownIssues.md
+  - DataPreparation.md
   - Conclusion.md
-  - AboutUs.md

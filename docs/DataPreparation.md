@@ -1,6 +1,4 @@
-### Known Issues
-##### (problems with predictors, reporting, bias, etc.)
-
+### Data Preparation
 Missing Values Count:
 
     iso_code                              64
@@ -39,11 +37,11 @@ Missing Values Count:
     life_expectancy                      466
     dtype: int64
 
-* There are a total number of 33417 observations and the following variables have more than 60% of data as missing values
+* There are a total number of 33417 observations and the following variables have more than 60% of data as missing values. These variables were removed.
 
 `new_tests, total_tests, total_tests_per_thousand, new_tests_per_thousand, new_tests_smoothed, new_tests_smoothed_per_thousand, tests_units`
 
-* The variable `handwashing_facilities` has 19653 close to 60% of data as missing values.
+* The variable `handwashing_facilities` has 19653 close to 60% of data as missing values. These variables were removed.
 
 * The variable `extreme_poverty` is also having 40% of its values as missing values. However, we will try to consider this variable as it has less than 50% of its missing values.
 

@@ -1,7 +1,4 @@
-
-### Data Set
-The data set used for our project can be found [here](https://ourworldindata.org/coronavirus/country/united-states?country=~USA).
-
+### Data Understanding
 **Data Set Info:**
 
 There are 33417 observations and 34 columns where 5 variables are of categorical data type and the remaining 29 variables are of numerical data types. Looking at the column names, the dataset provides us information about total number of COVID cases, tests and deaths by continent and by different age brackets. It also has information about per capitia, life expectancy, death rate by cardiovsacular and diabetes on a daily basis.

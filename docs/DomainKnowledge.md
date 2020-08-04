@@ -1,4 +1,4 @@
-### Domain Information
+### Domain Knowledge
 
 Below are some links to more articles that relate to our research question:
 
