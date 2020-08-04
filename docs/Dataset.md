@@ -1,7 +1,6 @@
-### Dataset
+### Dataset & Approach
 The dataset used for our project can be found [here](https://ourworldindata.org/coronavirus/country/united-states?country=~USA).
 
-### Approach
 
 Below is the Approcah we took for this project:
 
