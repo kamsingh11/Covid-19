@@ -9,4 +9,5 @@ COVID-19 has been affecting every region of this world and this pandemic has tak
 Using a daily updated global pandemic data set, we seek to understand how COVID-19 is affecting people of various ages to predict the number of deaths and to determine the effect of GDP on pandemic response and vice versa. The target population is global, broken down by country, using descriptive and analytical methods, we aim to answer the question not asked by other sources.
 
 
-Refer to our [Github pages](https://kamsingh11.github.io/Covid-19/) for more details.
+## Details
+Refer to our [Github Pages](https://kamsingh11.github.io/Covid-19/) for more details on the project, the data set used and our findings.
