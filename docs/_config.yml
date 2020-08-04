@@ -7,17 +7,17 @@ include:
   - README.md
   - ProjectTeam.md
   - DataSource.md
+  - Approach.md
   - DomainKnowledge.md
-  - DataUnderstanding.md
-  - Approach.md  
+  - DataUnderstanding.md  
   - DataPreparation.md
   - Conclusion.md
 
 header_pages:
   - ProjectTeam.md
   - DataSource.md
+  - Approach.md
   - DomainKnowledge.md
   - DataUnderstanding.md
-  - Approach.md
   - DataPreparation.md
   - Conclusion.md
