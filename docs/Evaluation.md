@@ -10,4 +10,6 @@ Our evaluation process included below steps:
 	 - Our decision tree model showed signs of over-fitting in the beginning
 	 - Once tuned it gave a better accuracy of 92.4% on train set and 91.8% on test set
 
-Refer to the [html](html/COVID-19-Death Analysis.html) version of our notebook for full details on the code, steps, plots and our findings.
+<br/>
+
+Refer to the ***[html](html/COVID-19-Death Analysis.html)*** version of our notebook for full details on the code, steps, plots and our findings.

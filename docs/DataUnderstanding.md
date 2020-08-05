@@ -344,6 +344,8 @@ Below table shows the description and summary of numerical or continuous variabl
   </tbody>
 </table>
 
+
 **GDP vs Total Deaths**
+
 To get an initial understanding we created an lmplot to understand any relation between GDP and total deaths and observed that the total deaths are more for poorer countries but we cannot be very sure, as there is a spike very close to 60,000 which can be deemed as countries with higher GDP. A significant portion of deaths are still in the lesser GDP range which might indicate a disparity between life expectancy between richer and poorer countries.
 ![Lmplot for GDP vs Total Deaths](images/Lmplot.JPG)

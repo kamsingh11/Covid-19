@@ -8,7 +8,7 @@ This heatmap shows the correlation between the different categories. This allows
 **Linear Regression**
 We performed a linear regression on our EU data frame to understand the impact of GDP, demographic factors like age, prevalence of smoking, life expectancy, median age, location total cases.
 
-	`The intercept term of the linear model: 2243.888492529553`
+	The intercept term of the linear model: 2243.888492529553
 
 Linear Regression Coefficients are as below:
 
