@@ -10,4 +10,4 @@ Using a daily updated global pandemic data set, we seek to understand how COVID-
 
 
 ## Details
-Refer to our [Github Pages](https://kamsingh11.github.io/Covid-19/) for more details on the project, the data set used and our findings.
+Refer to our [Github Pages](https://kamsingh11.github.io/Covid-19/) for more details on the project, the data set used and our findings. All the markdown files and the images used by Github Pages can be found in ***/docs*** folder.
