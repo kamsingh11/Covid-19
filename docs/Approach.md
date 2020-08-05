@@ -9,6 +9,7 @@ Below is the Approcah we took for this project:
 	 * Understanding and comapring distribution through histograms, CDF, PMF and KDE plots
 	 * Visualizing relationshsips between the variables
 	
+	
    * Data Preparation
 	 * Handling missing data with imputation or deletion (preferably imputation)
 	 * Handling data types by converting some if needed
@@ -19,8 +20,10 @@ Below is the Approcah we took for this project:
 		 * checking correlation via a matrix and plot to understand which variables to select, 
 		 * if necessary dimension reduction by PCA 
 
+
    * Machine Learning (Supervised)
 	 * We will be approaching this project with supervised learning models to understand the effect of GDP and predict deaths
+
 
    * Evaluation
 	 * Splitting the data into train and test set

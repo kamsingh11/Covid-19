@@ -8,7 +8,7 @@
 
 * We have also saved an html version of the Notebook - ***COVID-19-Death Analysis.html*** if someone wants to go through the details without Jupyter Notebook installation
 
-* We are also using GitHub Pages to build a static website for documenting our findings. All the files related to it can be found under ***/docs*** folder
+* We are also using GitHub Pages to build a static website for documenting our findings. All the files related to it can be found under ***/docs*** folder. The ***/docs/images*** contains all the images used for the documentation. These images are snipped from the ***src/COVID-19-Death Analysis.ipynb*** notebook itself.
 
 
 ### Team

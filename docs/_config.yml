@@ -11,6 +11,8 @@ include:
   - DomainKnowledge.md
   - DataUnderstanding.md  
   - DataPreparation.md
+  - MachineLearning.md
+  - Evaluation.md
   - Conclusion.md
 
 header_pages:
@@ -20,4 +22,6 @@ header_pages:
   - DomainKnowledge.md
   - DataUnderstanding.md
   - DataPreparation.md
+  - MachineLearning.md
+  - Evaluation.md
   - Conclusion.md
