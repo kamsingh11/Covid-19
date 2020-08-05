@@ -9,6 +9,8 @@ Below is the Approach we took for this project:
 	 - Understanding and comparing distribution through histograms, CDF, PMF and KDE plots
 	 - Visualizing relationships between the variables
 
+<br/>
+
  - Data Preparation
 	 - Handling missing data with imputation or deletion (preferably imputation)
 	 - Handling data types by converting some if needed
@@ -19,10 +21,14 @@ Below is the Approach we took for this project:
 		- Checking correlation via a matrix and plot to understand which variables to select
 		- If necessary dimension reduction by PCA 
 
+<br/>
+
 - Machine Learning (Supervised)
 	- Supervised learning models to understand the effect of GDP and predict deaths
 
-	- Evaluation
+<br/>
+
+- Evaluation
 		- Splitting the data into train and test set
 		- Scores, classification reports, confusion matrix to understand the accuracy of classification predictions
 			- Exploring this with cross validation as well

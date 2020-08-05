@@ -1,11 +1,13 @@
 ### Machine Learning
 
 **Heatmap for the Correlation Matrix**
+
 This heatmap shows the correlation between the different categories. This allows us to see how the different categories may effect each other. We can observe that median_age, aged_65_older and aged_70_older are correlated. We will include only median_age and aged_65_older in our model to avoid noise.
 ![Heatmap for the Correlation Matrix](images/HeatMapCorrMatrix.JPG)
 <br/>
 
 **Linear Regression**
+
 We performed a linear regression on our EU data frame to understand the impact of GDP, demographic factors like age, prevalence of smoking, life expectancy, median age, location total cases.
 
 	The intercept term of the linear model: 2243.888492529553
@@ -482,6 +484,7 @@ From below residuals vs predicted plot we can observe that this data set is not 
 <br/>
 
 **Decision Tree Model**
+
 We also ran the decision tree model and observed it performs better once tuned with GridSearchCV to find the best possible parameters to understand the total deaths with GDP and age parameters for different locations across Europe. Below are the results which shows that the model is well tuned to predict the total deaths very closely:
 
     Train score: 0.924
