@@ -1,12 +1,13 @@
-
 ### Machine Learning
 
 #### Heatmap for the Correlation Matrix
 This heatmap shows the correlation between the different categories. This allows us to see how the different categories may effect each other. We can observe that median_age, aged_65_older and aged_70_older are correlated. We will include only median_age and aged_65_older in our model to avoid noise.
 ![Heatmap for the Correlation Matrix](images/HeatMapCorrMatrix.JPG)
+<br/>
 
 #### Linear Regression
 We performed a linear regression on our EU data frame to understand the impact of GDP, demographic factors like age, prevalence of smoking, life expectancy, median age, location total cases.
+
 	`The intercept term of the linear model: 2243.888492529553`
 
 Linear Regression Coefficients are as below:
@@ -469,11 +470,24 @@ Linear Regression Coefficients are as below:
     </tr>
   </tbody>
 </table>
-
 The model accuracy comes as 70.5%  from this, we can also get the intercept and the coefficients.  To check if this model we plotted the residuals for normality and residuals versus predicted for homoscedasticity.
+<br/>
 
 Below plot shows us that the residuals though might seem like normally distributed but narrower plot are not normally distributed.
 ![Histogram of Residual Check for Normality](images/HistogramResidualCheck.JPG)
+<br/>
 
 From below residuals vs predicted plot we can observe that this data set is not good for a linear regression model.
 ![Residuals vs. predicted values plot (Homoscedasticity)](images/Homoscedasticity.JPG)
+<br/>
+
+#### Decision Tree Model
+We also ran the decision tree model and observed it performs better once tuned with GridSearchCV to find the best possible parameters to understand the total deaths with GDP and age parameters for different locations across Europe. Below are the results which shows that the model is well tuned to predict the total deaths very closely:
+
+    Train score: 0.924
+    Test score: 0.918
+    DecisionTreeRegressor(criterion='mse', max_depth=3, max_features=None,
+        max_leaf_nodes=4, min_impurity_decrease=0.0,
+        min_impurity_split=None, min_samples_leaf=1,
+        min_samples_split=2, min_weight_fraction_leaf=0.0,
+        presort=False, random_state=100, splitter='best')

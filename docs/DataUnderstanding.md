@@ -1,7 +1,7 @@
 ### Data Understanding
 **Data Set Info:**
 
-There are 33417 observations and 34 columns where 5 variables are of categorical data type and the remaining 29 variables are of numerical data types. Looking at the column names, the dataset provides us information about total number of COVID cases, tests and deaths by continent and by different age brackets. It also has information about per capitia, life expectancy, death rate by cardiovsacular and diabetes on a daily basis.
+There are 33417 observations and 34 columns where 5 variables are of categorical data type and the remaining 29 variables are of numerical data types. Looking at the column names, the data set provides us information about total number of COVID cases, tests and deaths by continent and by different age brackets. It also has information about per capita, life expectancy, death rate by cardiovascular and diabetes on a daily basis.
 <br/>
 
     RangeIndex: 33417 entries, 0 to 33416
