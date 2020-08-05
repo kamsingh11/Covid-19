@@ -1,5 +1,6 @@
 ### Data Understanding
-**Data Set Info:**
+
+**Data Set Info**
 
 There are 33417 observations and 34 columns where 5 variables are of categorical data type and the remaining 29 variables are of numerical data types. Looking at the column names, the data set provides us information about total number of COVID cases, tests and deaths by continent and by different age brackets. It also has information about per capita, life expectancy, death rate by cardiovascular and diabetes on a daily basis.
 <br/>
@@ -46,7 +47,8 @@ There are 33417 observations and 34 columns where 5 variables are of categorical
 
 
 
-**Describing and Summarizing numerical or continuous variables**
+**Description and Summary**
+Below table shows the description and summary of numerical or continuous variables:
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -341,3 +343,7 @@ There are 33417 observations and 34 columns where 5 variables are of categorical
     </tr>
   </tbody>
 </table>
+
+**GDP vs Total Deaths**
+To get an initial understanding we created an lmplot to understand any relation between GDP and total deaths and observed that the total deaths are more for poorer countries but we cannot be very sure, as there is a spike very close to 60,000 which can be deemed as countries with higher GDP. A significant portion of deaths are still in the lesser GDP range which might indicate a disparity between life expectancy between richer and poorer countries.
+![Lmplot for GDP vs Total Deaths](images/Lmplot.JPG)
