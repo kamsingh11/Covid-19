@@ -473,7 +473,7 @@ Linear Regression Coefficients are as below:
 The model accuracy comes as 70.5%  from this, we can also get the intercept and the coefficients.  To check if this model we plotted the residuals for normality and residuals versus predicted for homoscedasticity.
 
 Below plot shows us that the residuals though might seem like normally distributed but narrower plot are not normally distributed.
-![Histogram of Residual Check for Normality](HistogramResidualCheck.JPG)
+![Histogram of Residual Check for Normality](images/HistogramResidualCheck.JPG)
 
 From below residuals vs predicted plot we can observe that this data set is not good for a linear regression model.
-![Residuals vs. predicted values plot (Homoscedasticity)](Homoscedasticity.JPG)
+![Residuals vs. predicted values plot (Homoscedasticity)](images/Homoscedasticity.JPG)
